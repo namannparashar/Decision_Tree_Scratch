@@ -1,3 +1,5 @@
+# SCC 461 Programming For Data Scientists
+
 import numpy as np 
 class Node():
     def __init__(self, feature_index=None, threshold=None, left=None, right=None, info_gain=None, value=None): 
